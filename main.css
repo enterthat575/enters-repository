@@ -12,7 +12,7 @@ body {
     container-name: body;
 
     /* font, change to '' for default discord font */
-    --font: 'figtree';
+    --font: 'handjet';
     --code-font: '';
 
     /* sizes */
